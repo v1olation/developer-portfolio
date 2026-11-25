@@ -1,4 +1,4 @@
-﻿# Priyanshu Yadav — Developer Portfolio
+# Priyanshu Yadav — Developer Portfolio
 
 > B.Tech CSE Student | K.R. Mangalam University, Gurugram | Expected graduation: 2030
 
@@ -22,3 +22,12 @@ See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my learning plan.
 ## Progress Tracker
 
 See [PROGRESS.md](./PROGRESS.md) for completed coursework and projects.
+
+## Live Website
+
+View the [developer portfolio](https://v1olation.github.io/developer-portfolio/), published with GitHub Pages.
+
+## Presentation
+
+See [PRESENTATION_SCRIPT.md](./PRESENTATION_SCRIPT.md) for my Q4.6 presentation outline.
+

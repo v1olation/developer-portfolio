@@ -13,5 +13,7 @@
 - Created a cybersecurity-focused six-semester learning roadmap.
 
 ## Not Started
+- Practise the Q4.6 presentation twice with a timer, then present it to faculty.
 
 - Create coding-platform profiles and begin the introductory HackerRank, LeetCode, and freeCodeCamp work for Question 4.4.
+

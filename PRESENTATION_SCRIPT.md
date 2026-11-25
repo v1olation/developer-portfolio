@@ -43,7 +43,7 @@ A concept I found challenging was a Git merge conflict. I learned to inspect the
 
 ## 8:00–9:00 — Portfolio website
 
-Open the live GitHub Pages site at **[add the published URL after Pages is enabled]**. Show the About section, project cards, skills table, learning status, roadmap, and contact links. I built the page with HTML and CSS and published it using GitHub Pages.
+Open the live GitHub Pages site at **https://v1olation.github.io/developer-portfolio/**. Show the About section, project cards, skills table, learning status, roadmap, and contact links. I built the page with HTML and CSS and published it using GitHub Pages.
 
 ## 9:00–10:00 — Conclusion and questions
 
@@ -58,3 +58,4 @@ If you do not know an answer, say: “I haven’t covered that yet, but it is on
 - Confirm the LAB 2 script exists before using that demo; otherwise use the honest fallback above.
 - Open GitHub profile, lab repository, portfolio repository, live site, and LinkedIn tabs.
 - Rehearse the full talk twice with a timer and once for a classmate if available. Record the actual practice dates and times in your lab record; do not mark practice complete until done.
+
